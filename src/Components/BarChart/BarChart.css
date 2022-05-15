@@ -1,0 +1,14 @@
+.Bar{
+    width: 40vw;
+    margin-top: 5rem;
+   margin: 2rem;
+}
+
+
+
+@media only screen and (max-width: 790px) {
+    .Bar {
+      width: 80vw;
+    }
+  }
+

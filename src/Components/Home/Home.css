@@ -1,0 +1,20 @@
+.home{
+   display: grid;
+   justify-content: center;
+   background-color: #fae3dc;
+    
+}
+
+.heading{
+    letter-spacing: 1px;
+    font-weight: 700;
+    font-size: 35px;
+    color: #fc501b;
+
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
